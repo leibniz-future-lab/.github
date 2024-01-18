@@ -2,13 +2,13 @@
 
 In the International Future Lab for Artificial Intelligence ([Leibniz AI Lab](https://leibniz-ai-lab.de/)) in Hannover, excellent international researchers as well as renowned colleagues from L3S Research Center, Leibniz University, Hannover Medical School and European partner institutes have been researching new topics in artificial intelligence and developing intelligent solutions for personalised medicine.
 
-* [SelfDistill-SER](https://github.com/leibniz-future-lab/SelfDistill-SER): **Fast yet effective speech emotion recognition with self-distillation.**
+* [SelfDistill-SER](https://github.com/leibniz-future-lab/SelfDistill-SER): **Fast yet effective speech emotion recognition with self-distillation**
 <br> We apply self-distillation  to produce a fast and effective speech emotion recognition model, by simultaneously fine-tuning wav2vec 2.0 and training its shallower versions.
 
-* [PrototypeSound](https://github.com/leibniz-future-lab/PrototypeSound): **Prototype Learning for Interpretable Respiratory Sound Analysis.**
+* [PrototypeSound](https://github.com/leibniz-future-lab/PrototypeSound): **Prototype Learning for Interpretable Respiratory Sound Analysis**
 <br> The prototype learning framework aims to generate prototypes of audio singnals for a respiratory sound classification task (normal/crackle/wheeze/both).
 
-* [HypercomplexECG](https://github.com/leibniz-future-lab/HypercomplexECG): **Efficient ECG-based Atrial Fibrillation Detection via Parameterised Hypercomplex Neural Networks.** 
+* [HypercomplexECG](https://github.com/leibniz-future-lab/HypercomplexECG): **Efficient ECG-based Atrial Fibrillation Detection via Parameterised Hypercomplex Neural Networks** 
 <br> We propose lightweight convolutional neural networks  for atrial fibrillation detection based on the recently proposed parameterised hypercomplex neural networks.
 
 * [Knowledge Acquisition](https://github.com/jwallat/knowledge-acquisition): **The Effect of Masking Strategies on Knowledge Retention by Language Model**
@@ -26,6 +26,9 @@ In the International Future Lab for Artificial Intelligence ([Leibniz AI Lab](ht
 * [clinALL](https://git.l3s.uni-hannover.de/tang/clinALL): **AI-assisted clinical framework to facilitate diagnostic and translational discovery in hematological neoplasia**
 <br> clinALL is a clinical data integration, visualization and analysis framework especially designed for hematological neoplasia. Its main user interface is based on Uniform Manifold Approximation
 and Projection (UMAP) analysis of the RNA sequencing data. Both clinical and genomic information provided by the users can be integrated and visualized on top of the UMAP.
+
+* [MPM](https://git.l3s.uni-hannover.de/dong/mpm): **A Message Passing framework with Multi-data Integration for miRNA-Disease Association Prediction**
+<br> We propose a biologically-motivated data-driven approach for the micro RNA-disease association prediction, which overcomes the data scarcity problem by exploiting information from multiple data sources. Users can explore the predictions of our model through a [**WebApp**](http://software.mpm.leibniz-ai-lab.de/). In addition, we make the biological information associated to miRNAs and diseases available.
 
 * [IVP-VAE](https://github.com/jingge326/ivpvae): **IVP-VAE: Modeling EHR Time Series with Initial Value Problem Solvers**
 <br> We propose a novel continuous-time model which can capture sequential patterns of EHR time series by purely solving multiple IVPs in parallel. 
