@@ -45,10 +45,32 @@ By utilizing the invertibility property of IVP solvers, we achieve parameter sha
 We also contribute a multi-label, multi-class dataset where we annotate the existing CADEC dataset into five information need categories for the "Medical Forum Question Classification" task.
 
 * [MPSS Clinical Trial Search](https://github.com/roysoumya/MPSS-clinical-trial-search): **Interpretable Clinical Trial Retrieval System using Pubmed Citation Network**
-<br> We propose a graph-based model that explores both clinical trials and the Pubmed databases to alleviate the shortage of relevant clinical trials for a query. We make all the codes and data available. Specifically, we contribute a disease-independent evaluation dataset for clinical trial search systems that may encourage more research into this critical domain.
+<br> We propose a graph-based model that explores both clinical trials and the Pubmed databases to alleviate the shortage of relevant clinical trials for a query. We also contribute a disease-independent evaluation dataset for clinical trial search systems.
 
 * [Graph Learning Based AMDP](https://github.com/xy9485/GraphLearningBasedAMDP): **Graph learning-based generation of abstractions for reinforcement learning**
 <br> This work targets hierarchical reinforcement learning by incorporating a higher-level Markov decision process that helps speed up convergence of reinforcement learning.
 
 * [Deep Value Q-learning RL](https://github.com/xy9485/DVQN_RL): **Regulating Action Value Estimation in Deep Reinforcement Learning**
 <br> We propose a novel method called Deep Value Q-learning, which regulates the estimation of action values, tackles the overestimation issue of deep Q-learning and improves sample efficiency of reinforcement learning. 
+
+* [Genie](https://github.com/MueFab/genie): **Open Source Genome Compression Standard Codec**
+<br> The MPEG-G standard addresses the problem of efficient and cost-effective handling of genomic data by providing new compression and transport technologies and a family of standard specifications.
+We propose MPEG-G conformant software to compress genomic data, such as the first implementation of an MPEG-G compliant entropy codec, GABAC. 
+
+* [GVC](https://github.com/sXperfect/gvc): **Efficient Random Access Compression for Gene Sequence Variations**
+<br> We present the Genomic Variant Codec (GVC), a novel approach for compressing gene sequence variations with random access capability. 
+
+* [PEKORA](https://github.com/sXperfect/pekora): **High-Performance 3D Genome Reconstruction**
+<br> Reconstructing high-resolution genome structures efficiently and with high accuracy is challenging due to a high proportion of missing data and noisy observed interaction frequencies. To remedy this situation, we present PEKORA, a high-performance 3D genome reconstruction method using k-th order Spearman’s rank correlation approximation.
+
+* [ReITR](https://github.com/yrcong/RelTR): **Relation Transformer for Scene Graph Generation**
+<br> We propose an end-to-end scene graph generation model RelTR with an encoder-decoder architecture. Our one-stage method can directly generate a sparse scene graph by decoding the visual appearance.
+
+* [TOAD-GAN](https://github.com/Mawiszus/TOAD-GAN): **Coherent Style Level Generation from a Single Example**
+<br> We present TOAD-GAN (Token-based One-shot Arbitrary Dimension Generative Adversarial Network), a novel Procedural Content Generation (PCG) algorithm that generates token-based video game levels. TOAD-GAN follows the SinGAN architecture and can be trained using only one example.
+
+* [World-GAN](https://github.com/Mawiszus/World-GAN): **Generative Model for Minecraft Worlds**
+<br> We introduce World-GAN, the first method to perform data-driven Procedural Content Generation via Machine Learning in Minecraft from a single example. Based on a 3D Generative Adversarial Network (GAN) architecture, we are able to create arbitrarily sized world snippets from a given sample.
+
+* [FoulingSeg](https://github.com/luuzk/foulingseg): **Semantic Segmentation of Macrofouling Images**
+<br> We present an approach for automatic image-based macrofouling analysis. We created a dataset with dense labels prepared from field panel images and propose a convolutional network (adapted U-Net) for the semantic segmentation of different macrofouling classes. 
