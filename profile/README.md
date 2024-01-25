@@ -11,7 +11,7 @@ In the International Future Lab for Artificial Intelligence ([Leibniz AI Lab](ht
 * [HypercomplexECG](https://github.com/leibniz-future-lab/HypercomplexECG): **Efficient ECG-based Atrial Fibrillation Detection via Parameterised Hypercomplex Neural Networks** 
 <br> We propose lightweight convolutional neural networks  for atrial fibrillation detection based on the recently proposed parameterised hypercomplex neural networks.
 
-* [Waveform Viewer](https://github.com/leoniebasso/WaveformViewer): **Graphical Interface to explore ICU waveform data** 
+* [Waveform Viewer](https://github.com/leoniebasso/WaveformViewer): **Graphical interface to explore ICU waveform data** 
 <br> We implement a graphical interface in MATLAB for clincians to explore waveform data from bed-side ICU monitors, namely electrocardiogram, blood pressure and oxygen saturation signals.
 
 * [Knowledge Acquisition](https://github.com/jwallat/knowledge-acquisition): **The Effect of Masking Strategies on Knowledge Retention by Language Model**
