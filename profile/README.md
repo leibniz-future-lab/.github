@@ -57,8 +57,7 @@ We also contribute a multi-label, multi-class dataset where we annotate the exis
 <br> We propose a novel method called Deep Value Q-learning, which regulates the estimation of action values, tackles the overestimation issue of deep Q-learning and improves sample efficiency of reinforcement learning. 
 
 * [Genie](https://github.com/MueFab/genie): **Open Source Genome Compression Standard Codec**
-<br> 
-The MPEG-G standard addresses the problem of efficient and cost-effective handling of genomic data by providing new compression and transport technologies and a family of standard specifications.
+<br> The MPEG-G standard addresses the problem of efficient and cost-effective handling of genomic data by providing new compression and transport technologies and a family of standard specifications.
 We propose MPEG-G conformant software to compress genomic data, such as the first implementation of an MPEG-G compliant entropy codec, GABAC. 
 
 * [GVC](https://github.com/sXperfect/gvc): **Efficient Random Access Compression for Gene Sequence Variations**
