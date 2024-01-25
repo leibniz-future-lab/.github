@@ -11,6 +11,9 @@ In the International Future Lab for Artificial Intelligence ([Leibniz AI Lab](ht
 * [HypercomplexECG](https://github.com/leibniz-future-lab/HypercomplexECG): **Efficient ECG-based Atrial Fibrillation Detection via Parameterised Hypercomplex Neural Networks** 
 <br> We propose lightweight convolutional neural networks  for atrial fibrillation detection based on the recently proposed parameterised hypercomplex neural networks.
 
+* [Waveform Viewer](https://github.com/leoniebasso/WaveformViewer): **Graphical Interface to explore ICU waveform data** 
+<br> We implement a graphical interface in MATLAB for clincians to explore waveform data from bed-side ICU monitors, namely electrocardiogram, blood pressure and oxygen saturation signals.
+
 * [Knowledge Acquisition](https://github.com/jwallat/knowledge-acquisition): **The Effect of Masking Strategies on Knowledge Retention by Language Model**
 <br> In this work, we investigate how different training regimes affect the amount of factual knowledge that language models remember. We test for masking random words, entities, and masking multiple tokens based on point-wise mutual information.
  
@@ -54,7 +57,8 @@ We also contribute a multi-label, multi-class dataset where we annotate the exis
 <br> We propose a novel method called Deep Value Q-learning, which regulates the estimation of action values, tackles the overestimation issue of deep Q-learning and improves sample efficiency of reinforcement learning. 
 
 * [Genie](https://github.com/MueFab/genie): **Open Source Genome Compression Standard Codec**
-<br> The MPEG-G standard addresses the problem of efficient and cost-effective handling of genomic data by providing new compression and transport technologies and a family of standard specifications.
+<br> 
+The MPEG-G standard addresses the problem of efficient and cost-effective handling of genomic data by providing new compression and transport technologies and a family of standard specifications.
 We propose MPEG-G conformant software to compress genomic data, such as the first implementation of an MPEG-G compliant entropy codec, GABAC. 
 
 * [GVC](https://github.com/sXperfect/gvc): **Efficient Random Access Compression for Gene Sequence Variations**
@@ -67,10 +71,14 @@ We propose MPEG-G conformant software to compress genomic data, such as the firs
 <br> We propose an end-to-end scene graph generation model RelTR with an encoder-decoder architecture. Our one-stage method can directly generate a sparse scene graph by decoding the visual appearance.
 
 * [TOAD-GAN](https://github.com/Mawiszus/TOAD-GAN): **Coherent Style Level Generation from a Single Example**
-<br> We present TOAD-GAN (Token-based One-shot Arbitrary Dimension Generative Adversarial Network), a novel Procedural Content Generation (PCG) algorithm that generates token-based video game levels. TOAD-GAN follows the SinGAN architecture and can be trained using only one example.
+<br> We present TOAD-GAN (Token-based One-
+shot Arbitrary Dimension Generative Adversarial Network), a novel Procedural Content Generation (PCG) algorithm that generates token-based video game levels. TOAD-GAN follows the SinGAN architecture and can be trained using only
+one example.
 
 * [World-GAN](https://github.com/Mawiszus/World-GAN): **Generative Model for Minecraft Worlds**
-<br> We introduce World-GAN, the first method to perform data-driven Procedural Content Generation via Machine Learning in Minecraft from a single example. Based on a 3D Generative Adversarial Network (GAN) architecture, we are able to create arbitrarily sized world snippets from a given sample.
+<br> We introduce World-GAN, the first method
+to perform data-driven Procedural Content Generation via Machine Learning in Minecraft from a single example. Based on a 3D Generative Adversarial Network (GAN) architecture, we are able
+to create arbitrarily sized world snippets from a given sample
 
 * [FoulingSeg](https://github.com/luuzk/foulingseg): **Semantic Segmentation of Macrofouling Images**
 <br> We present an approach for automatic image-based macrofouling analysis. We created a dataset with dense labels prepared from field panel images and propose a convolutional network (adapted U-Net) for the semantic segmentation of different macrofouling classes. 
